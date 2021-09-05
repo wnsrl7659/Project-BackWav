@@ -6,3 +6,7 @@ BackWav는 UE4를 이용해 만든 3D FPS 게임입니다. [팀 프로젝트 - �
 
 소스코드 다운로드 링크 : https://drive.google.com/file/d/1ZtHbcNN527h2oTpmxZsNWGDsj9gBCfiN/view?usp=sharing
 
+![BW1](https://user-images.githubusercontent.com/55295403/132118830-65b9fd00-fcab-4160-9570-a10d7cd7f4a5.png)
+![BW2](https://user-images.githubusercontent.com/55295403/132118832-83bb48fc-5c85-42b4-bb7c-df89dec2a30e.png)
+![BW3](https://user-images.githubusercontent.com/55295403/132118835-f3be19f9-fec5-4ade-a0f6-96210cee2dea.png)
+
